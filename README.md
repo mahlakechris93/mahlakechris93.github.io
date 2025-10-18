@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 ## 🛠 Features:
 - 📱 **Responsive design** for all devices.
-- 💻 **Showcases my skills** in front-end and back-end development.
+- 💻 **Showcases my skills** in Data & AI/ML
 - 🚀 **Displays recent projects** and achievements.
 
 ## 🔧 Technologies Used:
