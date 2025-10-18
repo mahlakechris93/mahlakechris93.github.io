@@ -1,4 +1,4 @@
-# 🌐 GauravSardar-Portfolio
+# 🌐 Chris-Mahlake-Portfolio
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and services as a Data & AI Specialist
 
